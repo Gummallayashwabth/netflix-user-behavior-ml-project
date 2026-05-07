@@ -2,6 +2,7 @@ Machine Learning-Based Analysis of Netflix User Watching Behavior
 
 Dataset
 Netflix User Watching Behavior Dataset
+https://www.kaggle.com/datasets/rhythmghai/netflix-user-watching-behavior-dataset
 
 Project Objective
 This project analyzes Netflix user engagement and churn behavior using machine learning techniques.
